@@ -5,8 +5,8 @@ body{
     background: linear-gradient(to right,#bbdefb,#ffa8a8);
 }
 .cal{
-    width: 500px;
-    padding: 150px;
+    width: 350px;
+    padding: 100px;
     position: absolute;
     top: 50%;
     left: 50%;
